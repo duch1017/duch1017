@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=duch1017&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duch1017&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=duch1017&show_icons=true&theme=dark&count_private=true)
+![:Augenestern-creator](https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru-h)
+
+
+
 
 
